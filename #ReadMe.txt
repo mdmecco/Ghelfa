@@ -256,11 +256,6 @@ pi@raspberrypi:~ $
 pi@raspberrypi:~ $ git push --set-upstream https://github.com/mdmecco/Ghelfa.git master
 Username for 'https://github.com': mdmecco@mdmecco.it
 Password for 'https://mdmecco@mdmecco.it@github.com': 
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/mdmecco/Ghelfa.git/'
-pi@raspberrypi:~ $ git push --set-upstream https://github.com/mdmecco/Ghelfa.git master
-Username for 'https://github.com': mdmecco@mdmecco.it
-Password for 'https://mdmecco@mdmecco.it@github.com': 
 Counting objects: 20, done.
 Delta compression using up to 4 threads.
 Compressing objects: 100% (18/18), done.
