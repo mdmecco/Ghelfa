@@ -271,6 +271,10 @@ pi@raspberrypi:~ $
 scaricare i dati da server remoto:
 git fetch https://github.com/mdmecco/Ghelfa.git
 
+Stage o add va fatto prima del commit
+git add .
+
+
 commit:
 git commit -m "evoluzione del commento"
 
