@@ -266,3 +266,14 @@ To https://github.com/mdmecco/Ghelfa.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from https://github.com/mdmecco/Ghelfa.git.
 pi@raspberrypi:~ $ 
+
+
+scaricare i dati da server remoto:
+git fetch https://github.com/mdmecco/Ghelfa.git
+
+commit:
+git commit -m "evoluzione del commento"
+
+push:
+git push --set-upstream https://github.com/mdmecco/Ghelfa.git master
+

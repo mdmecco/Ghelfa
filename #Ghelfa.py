@@ -43,7 +43,7 @@ RR1B="" #Definisce lo stato rele precedente
 #TPApre="15:30"
 #TPChiude="21:30"
 PPS=0
-TPApre="16:00"
+TPApre="20:00"
 TPChiude="23:00"
 LPolliR="12:00"
 
